@@ -8,6 +8,7 @@ class App extends React.Component {
       <div className="container">
         <h1 className="title">Movie Search App</h1>
         <SearchMovies />
+        <p>Developed By : Sajan Kc</p>
       </div>
     );
   }
